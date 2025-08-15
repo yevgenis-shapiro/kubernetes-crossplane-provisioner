@@ -24,8 +24,8 @@ module "nginx" {
   depends_on = [module.metallb]
 }
 
-module "argo" {
-  source = "./modules/argo"
+module "crossplane" {
+  source = "./modules/crossplane"
   depends_on = [module.nginx]
 }
 
