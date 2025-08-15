@@ -4,8 +4,8 @@
 ###  Crossplane | Kubernetes ☸️
 Crossplane is the cloud native control plane framework that allows you to build control planes without needing to write code. Crossplane has a highly extensible backend that enables you to orchestrate applications and infrastructure no matter where they run and a highly configurable frontend that lets you define the declarative API it offers.
 
-🚀 Key Features of Crossplane 
 
+### 🧱 Key Features of Crossplane 
 ```
 ✅ Unified API for Cloud Resources:
 Crossplane integrates cloud resources into Kubernetes using CRDs. This means you can manage cloud infrastructure alongside Kubernetes workloads using a single API
